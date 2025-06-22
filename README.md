@@ -6,3 +6,7 @@ This is final project for AIOlympiadClub 2024/2025.
 Requirements are in environment.yml file.
 
 Presentation is in IRIS_classification_project.pptx file.
+
+Notebook is in IRIS_classification.ipynb file.
+
+I suggest using that notebook only in google colab.
